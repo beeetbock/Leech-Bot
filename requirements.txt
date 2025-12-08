@@ -40,8 +40,8 @@ speedtest-cli
 telegraph
 tenacity
 tgcrypto
-# uv
-# uvloop==0.21.0
-xattr
+# uv  (removed — Linux only)
+# uvloop==0.21.0  (removed — not supported on Windows)
+# xattr  (removed — not supported on Windows)
 yt-dlp
 setuptools
